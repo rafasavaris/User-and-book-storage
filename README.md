@@ -69,6 +69,10 @@ This option shows the largest book on the shelf (by number of pages), the number
 
 This was a project done for the “Linguagem de Programação II” course, in December 2024, at the Faculty of Computer Engineering - UFSC. So, if you're a student there, DO NOT COPY IT. This addendum explains why the project uses a “books” class with inheritance and polymorphism, when it wouldn't be necessary: it's a requirement of the project, it's possible to do without.
 
+There is already an account registered with some books, in case you want to access it. It is:
+- Login: administracao123
+- Password: adm123
+- 
 ***
 
 #### if you need any help, please contact me <3
