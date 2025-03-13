@@ -72,7 +72,7 @@ This was a project done for the “Linguagem de Programação II” course, in D
 There is already an account registered with some books, in case you want to access it. It is:
 - Login: administracao123
 - Password: adm123
-- 
+  
 ***
 
 #### if you need any help, please contact me <3
